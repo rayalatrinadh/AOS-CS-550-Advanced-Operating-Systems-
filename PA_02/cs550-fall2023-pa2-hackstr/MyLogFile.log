@@ -1,0 +1,616 @@
+Oct 20, 2023 6:59:17 PM MainPeer main
+INFO: ---------------------> main() in  MainPeer java class
+Oct 20, 2023 6:59:17 PM MainPeer isConfigExist
+INFO: ---------------------> isConfigExist() in  MainPeer.java class
+Oct 20, 2023 6:59:17 PM MainPeer isConfigExist
+INFO: file exists
+Oct 20, 2023 6:59:17 PM MainPeer setTopology
+INFO: ---------------------> setTopology() in  MainPeer.java class
+Oct 20, 2023 6:59:17 PM MainPeer main
+INFO: looping config file
+Oct 20, 2023 6:59:17 PM MainPeer main
+INFO: PeerID unidentified
+Oct 20, 2023 6:59:17 PM MainPeer status
+INFO: ---------------------> status() in  MainPeer.java class
+Oct 20, 2023 6:59:17 PM MainPeer status
+INFO: +++++++++++++++++++++++++++++++
+Oct 20, 2023 6:59:17 PM MainPeer status
+INFO: Peer Status
+Oct 20, 2023 6:59:17 PM MainPeer status
+INFO: Peer Topology: star
+Oct 20, 2023 6:59:17 PM MainPeer status
+INFO: Peer ID: -1
+Oct 20, 2023 6:59:17 PM MainPeer status
+INFO: Peer IP: Undefined
+Oct 20, 2023 6:59:17 PM MainPeer status
+INFO: Peer Port: -1
+Oct 20, 2023 6:59:17 PM MainPeer status
+INFO: Peer Path: dir doesn't exist
+Oct 20, 2023 6:59:17 PM MainPeer status
+INFO: Server State: false
+Oct 20, 2023 6:59:17 PM MainPeer status
+INFO: +++++++++++++++++++++++++++++++
+Oct 20, 2023 6:59:17 PM MainPeer serverDefault
+INFO: ---------------------> serverDefault() in  MainPeer.java class
+Oct 20, 2023 6:59:17 PM MainPeer main
+INFO: Server Default: true
+Oct 20, 2023 6:59:44 PM MainPeer main
+INFO: ---------------------> main() in  MainPeer java class
+Oct 20, 2023 6:59:45 PM MainPeer isConfigExist
+INFO: ---------------------> isConfigExist() in  MainPeer.java class
+Oct 20, 2023 6:59:45 PM MainPeer isConfigExist
+INFO: file exists
+Oct 20, 2023 6:59:45 PM MainPeer setTopology
+INFO: ---------------------> setTopology() in  MainPeer.java class
+Oct 20, 2023 6:59:45 PM MainPeer getPeerPath
+INFO: ---------------------> getPeerPath() in  MainPeer.java class
+Oct 20, 2023 6:59:45 PM MainPeer getPeerPath
+INFO: path: C:\Users\RakeshDatta Adapa\OneDrive\IIT\AOS\Programming A 2\Solution\cs550-fall2023-pa2-hackstr\PeerFiles\Peer1
+Oct 20, 2023 6:59:45 PM MainPeer status
+INFO: ---------------------> status() in  MainPeer.java class
+Oct 20, 2023 6:59:45 PM MainPeer status
+INFO: +++++++++++++++++++++++++++++++
+Oct 20, 2023 6:59:45 PM MainPeer status
+INFO: Peer Status
+Oct 20, 2023 6:59:45 PM MainPeer status
+INFO: Peer Topology: star
+Oct 20, 2023 6:59:45 PM MainPeer status
+INFO: Peer ID: 1
+Oct 20, 2023 6:59:45 PM MainPeer status
+INFO: Peer IP: 192.168.0.237
+Oct 20, 2023 6:59:45 PM MainPeer status
+INFO: Peer Port: 7000
+Oct 20, 2023 6:59:45 PM MainPeer status
+INFO: Peer Path: C:\Users\RakeshDatta Adapa\OneDrive\IIT\AOS\Programming A 2\Solution\cs550-fall2023-pa2-hackstr\PeerFiles\Peer1
+Oct 20, 2023 6:59:45 PM MainPeer status
+INFO: Server State: false
+Oct 20, 2023 6:59:45 PM MainPeer status
+INFO: +++++++++++++++++++++++++++++++
+Oct 20, 2023 6:59:45 PM MainPeer serverDefault
+INFO: ---------------------> serverDefault() in  MainPeer.java class
+Oct 20, 2023 6:59:45 PM Mclient <init>
+INFO: ---------------------> Mclient() in  Mclientclass
+Oct 20, 2023 6:59:45 PM Mclient displayNeighbors
+INFO: localhost
+Oct 20, 2023 6:59:45 PM Mclient displayNeighbors
+INFO: 7010
+Oct 20, 2023 6:59:45 PM Mclient ClientInterface
+INFO: ---------------------> ClientInterface() in  Mclient class
+Oct 20, 2023 6:59:45 PM Mclient ContinueProcess
+INFO: Continue process******
+Oct 20, 2023 6:59:45 PM Mserver <init>
+INFO: ---------------------> Mserver() in  Mserver.java class
+Oct 20, 2023 6:59:45 PM Mclient ClientInterface
+INFO: client > 
+Oct 20, 2023 6:59:45 PM Mserver <init>
+INFO: ******************************server started&&&&&&&&&&
+Oct 20, 2023 7:00:04 PM Mclient$4 run
+INFO: Error in t7 thread
+Oct 20, 2023 7:00:04 PM MainPeer main
+INFO: Server Default: false
+Oct 20, 2023 7:21:50 PM MainPeer main
+INFO: ---------------------> main() in  MainPeer java class
+Oct 20, 2023 7:21:50 PM MainPeer isConfigExist
+INFO: ---------------------> isConfigExist() in  MainPeer.java class
+Oct 20, 2023 7:21:50 PM MainPeer isConfigExist
+INFO: file exists
+Oct 20, 2023 7:21:50 PM MainPeer setTopology
+INFO: ---------------------> setTopology() in  MainPeer.java class
+Oct 20, 2023 7:21:50 PM MainPeer main
+INFO: looping config file
+Oct 20, 2023 7:21:50 PM MainPeer main
+INFO: PeerID unidentified
+Oct 20, 2023 7:21:50 PM MainPeer status
+INFO: ---------------------> status() in  MainPeer.java class
+Oct 20, 2023 7:21:50 PM MainPeer status
+INFO: +++++++++++++++++++++++++++++++
+Oct 20, 2023 7:21:50 PM MainPeer status
+INFO: Peer Status
+Oct 20, 2023 7:21:50 PM MainPeer status
+INFO: Peer Topology: star
+Oct 20, 2023 7:21:50 PM MainPeer status
+INFO: Peer ID: -1
+Oct 20, 2023 7:21:50 PM MainPeer status
+INFO: Peer IP: Undefined
+Oct 20, 2023 7:21:50 PM MainPeer status
+INFO: Peer Port: -1
+Oct 20, 2023 7:21:50 PM MainPeer status
+INFO: Peer Path: dir doesn't exist
+Oct 20, 2023 7:21:50 PM MainPeer status
+INFO: Server State: false
+Oct 20, 2023 7:21:50 PM MainPeer status
+INFO: +++++++++++++++++++++++++++++++
+Oct 20, 2023 7:21:50 PM MainPeer serverDefault
+INFO: ---------------------> serverDefault() in  MainPeer.java class
+Oct 20, 2023 7:21:50 PM MainPeer main
+INFO: Server Default: true
+Oct 20, 2023 7:22:18 PM MainPeer main
+INFO: ---------------------> main() in  MainPeer java class
+Oct 20, 2023 7:22:18 PM MainPeer isConfigExist
+INFO: ---------------------> isConfigExist() in  MainPeer.java class
+Oct 20, 2023 7:22:18 PM MainPeer isConfigExist
+INFO: file exists
+Oct 20, 2023 7:22:18 PM MainPeer setTopology
+INFO: ---------------------> setTopology() in  MainPeer.java class
+Oct 20, 2023 7:22:18 PM MainPeer getPeerPath
+INFO: ---------------------> getPeerPath() in  MainPeer.java class
+Oct 20, 2023 7:22:18 PM MainPeer getPeerPath
+INFO: path: C:\Users\RakeshDatta Adapa\OneDrive\IIT\AOS\Programming A 2\Solution\cs550-fall2023-pa2-hackstr\PeerFiles\Peer1
+Oct 20, 2023 7:22:18 PM MainPeer status
+INFO: ---------------------> status() in  MainPeer.java class
+Oct 20, 2023 7:22:18 PM MainPeer status
+INFO: +++++++++++++++++++++++++++++++
+Oct 20, 2023 7:22:18 PM MainPeer status
+INFO: Peer Status
+Oct 20, 2023 7:22:18 PM MainPeer status
+INFO: Peer Topology: star
+Oct 20, 2023 7:22:18 PM MainPeer status
+INFO: Peer ID: 1
+Oct 20, 2023 7:22:18 PM MainPeer status
+INFO: Peer IP: 192.168.0.237
+Oct 20, 2023 7:22:18 PM MainPeer status
+INFO: Peer Port: 7000
+Oct 20, 2023 7:22:18 PM MainPeer status
+INFO: Peer Path: C:\Users\RakeshDatta Adapa\OneDrive\IIT\AOS\Programming A 2\Solution\cs550-fall2023-pa2-hackstr\PeerFiles\Peer1
+Oct 20, 2023 7:22:18 PM MainPeer status
+INFO: Server State: false
+Oct 20, 2023 7:22:18 PM MainPeer status
+INFO: +++++++++++++++++++++++++++++++
+Oct 20, 2023 7:22:18 PM MainPeer serverDefault
+INFO: ---------------------> serverDefault() in  MainPeer.java class
+Oct 20, 2023 7:22:18 PM Mclient <init>
+INFO: ---------------------> Mclient() in  Mclientclass
+Oct 20, 2023 7:22:18 PM Mclient displayNeighbors
+INFO: localhost
+Oct 20, 2023 7:22:18 PM Mclient displayNeighbors
+INFO: 7010
+Oct 20, 2023 7:22:18 PM Mclient ClientInterface
+INFO: ---------------------> ClientInterface() in  Mclient class
+Oct 20, 2023 7:22:18 PM Mserver <init>
+INFO: ---------------------> Mserver() in  Mserver.java class
+Oct 20, 2023 7:22:18 PM Mclient ContinueProcess
+INFO: Continue process******
+Oct 20, 2023 7:22:18 PM Mclient ClientInterface
+INFO: client > 
+Oct 20, 2023 7:22:18 PM Mserver <init>
+INFO: ******************************server started&&&&&&&&&&
+Oct 20, 2023 7:23:34 PM QFarword run
+INFO: ---------------------> run() in  QFarword class
+Oct 20, 2023 7:23:34 PM QFarword run
+INFO: ---------------------> run() in  QFarword class
+Oct 20, 2023 7:23:34 PM QFarword run
+INFO: ---------------------> run() in  QFarword class
+Oct 20, 2023 7:23:34 PM QFarword run
+INFO: ---------------------> run() in  QFarword class
+Oct 20, 2023 7:23:34 PM QFarword run
+INFO: ---------------------> run() in  QFarword class
+Oct 20, 2023 7:23:34 PM QFarword run
+INFO: ---------------------> run() in  QFarword class
+Oct 20, 2023 7:23:34 PM QFarword run
+INFO: ---------------------> run() in  QFarword class
+Oct 20, 2023 7:23:34 PM QFarword run
+INFO: ---------------------> run() in  QFarword class
+Oct 20, 2023 7:23:34 PM QFarword run
+INFO: ---------------------> run() in  QFarword class
+Oct 20, 2023 7:55:05 PM MainPeer main
+INFO: ---------------------> main() in  MainPeer java class
+Oct 20, 2023 7:55:05 PM MainPeer isConfigExist
+INFO: ---------------------> isConfigExist() in  MainPeer.java class
+Oct 20, 2023 7:55:05 PM MainPeer isConfigExist
+INFO: file exists
+Oct 20, 2023 7:55:05 PM MainPeer setTopology
+INFO: ---------------------> setTopology() in  MainPeer.java class
+Oct 20, 2023 7:55:05 PM MainPeer main
+INFO: looping config file
+Oct 20, 2023 7:55:05 PM MainPeer main
+INFO: PeerID unidentified
+Oct 20, 2023 7:55:05 PM MainPeer status
+INFO: ---------------------> status() in  MainPeer.java class
+Oct 20, 2023 7:55:05 PM MainPeer status
+INFO: +++++++++++++++++++++++++++++++
+Oct 20, 2023 7:55:05 PM MainPeer status
+INFO: Peer Status
+Oct 20, 2023 7:55:05 PM MainPeer status
+INFO: Peer Topology: star
+Oct 20, 2023 7:55:05 PM MainPeer status
+INFO: Peer ID: -1
+Oct 20, 2023 7:55:05 PM MainPeer status
+INFO: Peer IP: Undefined
+Oct 20, 2023 7:55:05 PM MainPeer status
+INFO: Peer Port: -1
+Oct 20, 2023 7:55:05 PM MainPeer status
+INFO: Peer Path: dir doesn't exist
+Oct 20, 2023 7:55:05 PM MainPeer status
+INFO: Server State: false
+Oct 20, 2023 7:55:05 PM MainPeer status
+INFO: +++++++++++++++++++++++++++++++
+Oct 20, 2023 7:55:05 PM MainPeer serverDefault
+INFO: ---------------------> serverDefault() in  MainPeer.java class
+Oct 20, 2023 7:55:05 PM MainPeer main
+INFO: Server Default: true
+Oct 20, 2023 7:55:50 PM MainPeer main
+INFO: ---------------------> main() in  MainPeer java class
+Oct 20, 2023 7:55:50 PM MainPeer isConfigExist
+INFO: ---------------------> isConfigExist() in  MainPeer.java class
+Oct 20, 2023 7:55:50 PM MainPeer isConfigExist
+INFO: file exists
+Oct 20, 2023 7:55:50 PM MainPeer setTopology
+INFO: ---------------------> setTopology() in  MainPeer.java class
+Oct 20, 2023 7:55:50 PM MainPeer getPeerPath
+INFO: ---------------------> getPeerPath() in  MainPeer.java class
+Oct 20, 2023 7:55:50 PM MainPeer getPeerPath
+INFO: path: C:\Users\RakeshDatta Adapa\OneDrive\IIT\AOS\Programming A 2\Solution\cs550-fall2023-pa2-hackstr\PeerFiles
+Oct 20, 2023 7:55:50 PM MainPeer status
+INFO: ---------------------> status() in  MainPeer.java class
+Oct 20, 2023 7:55:50 PM MainPeer status
+INFO: +++++++++++++++++++++++++++++++
+Oct 20, 2023 7:55:50 PM MainPeer status
+INFO: Peer Status
+Oct 20, 2023 7:55:50 PM MainPeer status
+INFO: Peer Topology: star
+Oct 20, 2023 7:55:50 PM MainPeer status
+INFO: Peer ID: 1
+Oct 20, 2023 7:55:50 PM MainPeer status
+INFO: Peer IP: 192.168.0.237
+Oct 20, 2023 7:55:50 PM MainPeer status
+INFO: Peer Port: 7000
+Oct 20, 2023 7:55:50 PM MainPeer status
+INFO: Peer Path: C:\Users\RakeshDatta Adapa\OneDrive\IIT\AOS\Programming A 2\Solution\cs550-fall2023-pa2-hackstr\PeerFiles
+Oct 20, 2023 7:55:50 PM MainPeer status
+INFO: Server State: false
+Oct 20, 2023 7:55:50 PM MainPeer status
+INFO: +++++++++++++++++++++++++++++++
+Oct 20, 2023 7:55:50 PM MainPeer serverDefault
+INFO: ---------------------> serverDefault() in  MainPeer.java class
+Oct 20, 2023 7:55:50 PM Mclient <init>
+INFO: ---------------------> Mclient() in  Mclientclass
+Oct 20, 2023 7:55:50 PM Mclient displayNeighbors
+INFO: localhost
+Oct 20, 2023 7:55:50 PM Mclient displayNeighbors
+INFO: 7010
+Oct 20, 2023 7:55:50 PM Mclient ClientInterface
+INFO: ---------------------> ClientInterface() in  Mclient class
+Oct 20, 2023 7:55:50 PM Mserver <init>
+INFO: ---------------------> Mserver() in  Mserver.java class
+Oct 20, 2023 7:55:50 PM Mclient ContinueProcess
+INFO: Continue process******
+Oct 20, 2023 7:55:50 PM Mserver <init>
+INFO: ******************************server started&&&&&&&&&&
+Oct 20, 2023 7:55:50 PM Mclient ClientInterface
+INFO: client > 
+Oct 20, 2023 7:57:07 PM QFarword run
+INFO: ---------------------> run() in  QFarword class
+Oct 20, 2023 7:57:07 PM QFarword run
+INFO: ---------------------> run() in  QFarword class
+Oct 20, 2023 7:57:07 PM QFarword run
+INFO: ---------------------> run() in  QFarword class
+Oct 20, 2023 7:57:07 PM QFarword run
+INFO: ---------------------> run() in  QFarword class
+Oct 20, 2023 7:57:07 PM QFarword run
+INFO: ---------------------> run() in  QFarword class
+Oct 20, 2023 7:57:07 PM QFarword run
+INFO: ---------------------> run() in  QFarword class
+Oct 20, 2023 7:57:07 PM QFarword run
+INFO: ---------------------> run() in  QFarword class
+Oct 20, 2023 7:57:07 PM QFarword run
+INFO: ---------------------> run() in  QFarword class
+Oct 20, 2023 7:57:07 PM QFarword run
+INFO: ---------------------> run() in  QFarword class
+Oct 20, 2023 7:57:27 PM Mclient AddToProcessQueue
+INFO: Adding to Process queue : Peer1Binary.txt
+Oct 20, 2023 7:57:27 PM Mclient ClientInterface
+INFO: client > 
+Oct 20, 2023 7:57:30 PM Mclient ContinueProcess
+INFO: Query,Peer1Binary.txt,2,1697849847591,1,1
+Oct 20, 2023 7:57:30 PM QFarword run
+INFO: ---------------------> run() in  QFarword class
+Oct 20, 2023 7:57:35 PM Mclient ContinueProcess
+INFO: Query,Peer1Binary.txt,1,1697849847591,1,1
+Oct 20, 2023 7:57:35 PM QFarword run
+INFO: ---------------------> run() in  QFarword class
+Oct 20, 2023 7:57:38 PM QFarword run
+INFO: ---------------------> run() in  QFarword class
+Oct 20, 2023 7:57:38 PM SClientHandler run
+INFO: Calling Obtain fun
+Oct 20, 2023 7:57:38 PM Mclient obtain
+INFO: ---------------------> obtain() in  Mclient class
+Oct 20, 2023 7:57:38 PM Mclient obtain
+INFO: 132: Obtain fun activated Hit Query: HitQuery,Peer1Binary.txt,1697849847591,192.168.0.237,7005,1
+Oct 20, 2023 7:57:38 PM Mclient$5 run
+INFO: 140 Calling receive
+Oct 20, 2023 7:57:38 PM Mclient receive
+INFO: Line 155
+Oct 20, 2023 7:57:38 PM Mclient receive
+INFO: File downloaded
+Oct 20, 2023 7:57:38 PM Mclient receive
+INFO: Requested file: Peer1Binary.txt, has been downloaded to directory: C:\Users\RakeshDatta Adapa\OneDrive\IIT\AOS\Programming A 2\Solution\cs550-fall2023-pa2-hackstr\PeerFiles\downloads
+Oct 20, 2023 7:57:40 PM Mclient ContinueProcess
+INFO: 1697849847591 , Query,Peer1Binary.txt,1,1697849847591,1,1
+Oct 20, 2023 7:57:40 PM QFarword run
+INFO: ---------------------> run() in  QFarword class
+Oct 20, 2023 7:59:14 PM Mclient$4 run
+INFO: Error in t7 thread
+Oct 20, 2023 7:59:14 PM MainPeer main
+INFO: Server Default: false
+Oct 20, 2023 9:28:01 PM MainPeer main
+INFO: ---------------------> main() in  MainPeer java class
+Oct 20, 2023 9:28:01 PM MainPeer isConfigExist
+INFO: ---------------------> isConfigExist() in  MainPeer.java class
+Oct 20, 2023 9:28:01 PM MainPeer isConfigExist
+INFO: file exists
+Oct 20, 2023 9:28:01 PM MainPeer setTopology
+INFO: ---------------------> setTopology() in  MainPeer.java class
+Oct 20, 2023 9:28:01 PM MainPeer main
+INFO: looping config file
+Oct 20, 2023 9:28:01 PM MainPeer main
+INFO: PeerID unidentified
+Oct 20, 2023 9:28:01 PM MainPeer status
+INFO: ---------------------> status() in  MainPeer.java class
+Oct 20, 2023 9:28:01 PM MainPeer status
+INFO: +++++++++++++++++++++++++++++++
+Oct 20, 2023 9:28:01 PM MainPeer status
+INFO: Peer Status
+Oct 20, 2023 9:28:01 PM MainPeer status
+INFO: Peer Topology: star
+Oct 20, 2023 9:28:01 PM MainPeer status
+INFO: Peer ID: -1
+Oct 20, 2023 9:28:01 PM MainPeer status
+INFO: Peer IP: Undefined
+Oct 20, 2023 9:28:01 PM MainPeer status
+INFO: Peer Port: -1
+Oct 20, 2023 9:28:01 PM MainPeer status
+INFO: Peer Path: dir doesn't exist
+Oct 20, 2023 9:28:01 PM MainPeer status
+INFO: Server State: false
+Oct 20, 2023 9:28:01 PM MainPeer status
+INFO: +++++++++++++++++++++++++++++++
+Oct 20, 2023 9:28:01 PM MainPeer serverDefault
+INFO: ---------------------> serverDefault() in  MainPeer.java class
+Oct 20, 2023 9:28:01 PM MainPeer main
+INFO: Server Default: true
+Oct 20, 2023 10:30:20 PM MainPeer main
+INFO: ---------------------> main() in  MainPeer java class
+Oct 20, 2023 10:30:20 PM MainPeer getPeerPath
+INFO: ---------------------> getPeerPath() in  MainPeer.java class
+Oct 20, 2023 10:30:20 PM MainPeer getPeerPath
+INFO: path: C:\Users\RakeshDatta Adapa\OneDrive\IIT\AOS\Programming A 2\Solution\cs550-fall2023-pa2-hackstr\PeerFiles
+Oct 20, 2023 10:30:20 PM MainPeer isConfigExist
+INFO: ---------------------> isConfigExist() in  MainPeer.java class
+Oct 20, 2023 10:30:20 PM MainPeer isConfigExist
+INFO: file exists
+Oct 20, 2023 10:30:20 PM MainPeer setTopology
+INFO: ---------------------> setTopology() in  MainPeer.java class
+Oct 20, 2023 10:30:20 PM MainPeer main
+INFO: looping config file
+Oct 20, 2023 10:30:20 PM MainPeer getPeerPath
+INFO: ---------------------> getPeerPath() in  MainPeer.java class
+Oct 20, 2023 10:30:20 PM MainPeer getPeerPath
+INFO: path: C:\Users\RakeshDatta Adapa\OneDrive\IIT\AOS\Programming A 2\Solution\cs550-fall2023-pa2-hackstr\PeerFiles
+Oct 20, 2023 10:30:20 PM MainPeer main
+INFO: Peer with ID 3 can be Started  on
+Oct 20, 2023 10:30:20 PM MainPeer status
+INFO: ---------------------> status() in  MainPeer.java class
+Oct 20, 2023 10:30:20 PM MainPeer status
+INFO: +++++++++++++++++++++++++++++++
+Oct 20, 2023 10:30:20 PM MainPeer status
+INFO: Peer Status
+Oct 20, 2023 10:30:20 PM MainPeer status
+INFO: Peer Topology: star
+Oct 20, 2023 10:30:20 PM MainPeer status
+INFO: Peer ID: 3
+Oct 20, 2023 10:30:20 PM MainPeer status
+INFO: Peer IP: 192.168.0.237
+Oct 20, 2023 10:30:20 PM MainPeer status
+INFO: Peer Port: 7010
+Oct 20, 2023 10:30:20 PM MainPeer status
+INFO: Peer Path: C:\Users\RakeshDatta Adapa\OneDrive\IIT\AOS\Programming A 2\Solution\cs550-fall2023-pa2-hackstr\PeerFiles
+Oct 20, 2023 10:30:20 PM MainPeer status
+INFO: Server State: false
+Oct 20, 2023 10:30:20 PM MainPeer status
+INFO: +++++++++++++++++++++++++++++++
+Oct 20, 2023 10:30:20 PM MainPeer serverDefault
+INFO: ---------------------> serverDefault() in  MainPeer.java class
+Oct 20, 2023 10:30:20 PM Mclient <init>
+INFO: ---------------------> Mclient() in  Mclientclass
+Oct 20, 2023 10:30:20 PM Mclient displayNeighbors
+INFO: localhost
+Oct 20, 2023 10:30:20 PM Mclient displayNeighbors
+INFO: 7000
+Oct 20, 2023 10:30:20 PM Mclient displayNeighbors
+INFO: localhost
+Oct 20, 2023 10:30:20 PM Mclient displayNeighbors
+INFO: 7005
+Oct 20, 2023 10:30:20 PM Mclient displayNeighbors
+INFO: localhost
+Oct 20, 2023 10:30:20 PM Mclient displayNeighbors
+INFO: 7015
+Oct 20, 2023 10:30:20 PM Mclient displayNeighbors
+INFO: localhost
+Oct 20, 2023 10:30:20 PM Mclient displayNeighbors
+INFO: 7020
+Oct 20, 2023 10:30:20 PM Mclient displayNeighbors
+INFO: localhost
+Oct 20, 2023 10:30:20 PM Mclient displayNeighbors
+INFO: 7025
+Oct 20, 2023 10:30:20 PM Mclient displayNeighbors
+INFO: localhost
+Oct 20, 2023 10:30:20 PM Mclient displayNeighbors
+INFO: 7030
+Oct 20, 2023 10:30:20 PM Mclient displayNeighbors
+INFO: localhost
+Oct 20, 2023 10:30:20 PM Mclient displayNeighbors
+INFO: 7035
+Oct 20, 2023 10:30:20 PM Mclient displayNeighbors
+INFO: localhost
+Oct 20, 2023 10:30:20 PM Mclient displayNeighbors
+INFO: 7040
+Oct 20, 2023 10:30:20 PM Mclient displayNeighbors
+INFO: localhost
+Oct 20, 2023 10:30:20 PM Mclient displayNeighbors
+INFO: 7045
+Oct 20, 2023 10:30:20 PM Mclient displayNeighbors
+INFO: localhost
+Oct 20, 2023 10:30:20 PM Mclient displayNeighbors
+INFO: 7050
+Oct 20, 2023 10:30:20 PM Mclient displayNeighbors
+INFO: localhost
+Oct 20, 2023 10:30:20 PM Mclient displayNeighbors
+INFO: 7055
+Oct 20, 2023 10:30:20 PM Mclient displayNeighbors
+INFO: localhost
+Oct 20, 2023 10:30:20 PM Mclient displayNeighbors
+INFO: 7060
+Oct 20, 2023 10:30:20 PM Mclient displayNeighbors
+INFO: localhost
+Oct 20, 2023 10:30:20 PM Mclient displayNeighbors
+INFO: 7065
+Oct 20, 2023 10:30:20 PM Mclient displayNeighbors
+INFO: localhost
+Oct 20, 2023 10:30:20 PM Mclient displayNeighbors
+INFO: 7070
+Oct 20, 2023 10:30:20 PM Mclient displayNeighbors
+INFO: localhost
+Oct 20, 2023 10:30:20 PM Mclient displayNeighbors
+INFO: 7075
+Oct 20, 2023 10:30:21 PM Mclient ClientInterface
+INFO: ---------------------> ClientInterface() in  Mclient class
+Oct 20, 2023 10:30:21 PM Mserver <init>
+INFO: ---------------------> Mserver() in  Mserver.java class
+Oct 20, 2023 10:30:21 PM Mclient ContinueProcess
+INFO: Continue process******
+Oct 20, 2023 10:30:21 PM Mserver <init>
+INFO: ******************************server started&&&&&&&&&&
+Oct 20, 2023 10:30:21 PM Mclient ClientInterface
+INFO: client > 
+Oct 20, 2023 10:30:55 PM Mclient AddToProcessQueue
+INFO: Adding to Process queue : 101.txt
+Oct 20, 2023 10:30:55 PM Mclient ClientInterface
+INFO: client > 
+Oct 20, 2023 10:30:56 PM QFarword run
+INFO: ---------------------> run() in  QFarword class
+Oct 20, 2023 10:30:56 PM QFarword run
+INFO: ---------------------> run() in  QFarword class
+Oct 20, 2023 10:30:56 PM QFarword run
+INFO: ---------------------> run() in  QFarword class
+Oct 20, 2023 10:30:56 PM QFarword run
+INFO: ---------------------> run() in  QFarword class
+Oct 20, 2023 10:30:56 PM QFarword run
+INFO: ---------------------> run() in  QFarword class
+Oct 20, 2023 10:30:56 PM QFarword run
+INFO: ---------------------> run() in  QFarword class
+Oct 20, 2023 10:30:56 PM QFarword run
+INFO: ---------------------> run() in  QFarword class
+Oct 20, 2023 10:30:56 PM QFarword run
+INFO: ---------------------> run() in  QFarword class
+Oct 20, 2023 10:30:56 PM QFarword run
+INFO: ---------------------> run() in  QFarword class
+Oct 20, 2023 10:30:56 PM QFarword run
+INFO: ---------------------> run() in  QFarword class
+Oct 20, 2023 10:30:56 PM QFarword run
+INFO: ---------------------> run() in  QFarword class
+Oct 20, 2023 10:30:56 PM QFarword run
+INFO: ---------------------> run() in  QFarword class
+Oct 20, 2023 10:30:56 PM QFarword run
+INFO: ---------------------> run() in  QFarword class
+Oct 20, 2023 10:30:56 PM Mclient ContinueProcess
+INFO: Query,101.txt,2,1697859055596,3,3
+Oct 20, 2023 10:30:56 PM QFarword run
+INFO: ---------------------> run() in  QFarword class
+Oct 20, 2023 10:30:56 PM QFarword run
+INFO: ---------------------> run() in  QFarword class
+Oct 20, 2023 10:30:56 PM QFarword run
+INFO: Error in QFarword line 261, Server Unavailable
+Oct 20, 2023 10:30:56 PM QFarword run
+INFO: Error in QFarword line 261, Server Unavailable
+Oct 20, 2023 10:30:56 PM QFarword run
+INFO: Error in QFarword line 261, Server Unavailable
+Oct 20, 2023 10:30:56 PM QFarword run
+INFO: Error in QFarword line 261, Server Unavailable
+Oct 20, 2023 10:30:56 PM QFarword run
+INFO: Error in QFarword line 261, Server Unavailable
+Oct 20, 2023 10:30:56 PM QFarword run
+INFO: Error in QFarword line 261, Server Unavailable
+Oct 20, 2023 10:30:56 PM QFarword run
+INFO: Error in QFarword line 261, Server Unavailable
+Oct 20, 2023 10:30:56 PM QFarword run
+INFO: Error in QFarword line 261, Server Unavailable
+Oct 20, 2023 10:30:56 PM QFarword run
+INFO: Error in QFarword line 261, Server Unavailable
+Oct 20, 2023 10:30:56 PM QFarword run
+INFO: Error in QFarword line 261, Server Unavailable
+Oct 20, 2023 10:30:56 PM QFarword run
+INFO: Error in QFarword line 261, Server Unavailable
+Oct 20, 2023 10:30:56 PM QFarword run
+INFO: Error in QFarword line 261, Server Unavailable
+Oct 20, 2023 10:30:56 PM QFarword run
+INFO: Error in QFarword line 261, Server Unavailable
+Oct 20, 2023 10:30:56 PM QFarword run
+INFO: Error in QFarword line 261, Server Unavailable
+Oct 20, 2023 10:30:56 PM QFarword run
+INFO: Error in QFarword line 261, Server Unavailable
+Oct 20, 2023 10:31:01 PM Mclient ContinueProcess
+INFO: Query,101.txt,1,1697859055596,3,3
+Oct 20, 2023 10:31:01 PM QFarword run
+INFO: ---------------------> run() in  QFarword class
+Oct 20, 2023 10:31:01 PM QFarword run
+INFO: ---------------------> run() in  QFarword class
+Oct 20, 2023 10:31:01 PM QFarword run
+INFO: ---------------------> run() in  QFarword class
+Oct 20, 2023 10:31:01 PM QFarword run
+INFO: ---------------------> run() in  QFarword class
+Oct 20, 2023 10:31:01 PM QFarword run
+INFO: ---------------------> run() in  QFarword class
+Oct 20, 2023 10:31:01 PM QFarword run
+INFO: ---------------------> run() in  QFarword class
+Oct 20, 2023 10:31:01 PM QFarword run
+INFO: ---------------------> run() in  QFarword class
+Oct 20, 2023 10:31:01 PM QFarword run
+INFO: ---------------------> run() in  QFarword class
+Oct 20, 2023 10:31:01 PM QFarword run
+INFO: ---------------------> run() in  QFarword class
+Oct 20, 2023 10:31:01 PM QFarword run
+INFO: ---------------------> run() in  QFarword class
+Oct 20, 2023 10:31:01 PM QFarword run
+INFO: ---------------------> run() in  QFarword class
+Oct 20, 2023 10:31:01 PM QFarword run
+INFO: ---------------------> run() in  QFarword class
+Oct 20, 2023 10:31:01 PM QFarword run
+INFO: ---------------------> run() in  QFarword class
+Oct 20, 2023 10:31:01 PM QFarword run
+INFO: ---------------------> run() in  QFarword class
+Oct 20, 2023 10:31:01 PM QFarword run
+INFO: ---------------------> run() in  QFarword class
+Oct 20, 2023 10:31:01 PM QFarword run
+INFO: Error in QFarword line 261, Server Unavailable
+Oct 20, 2023 10:31:01 PM QFarword run
+INFO: Error in QFarword line 261, Server Unavailable
+Oct 20, 2023 10:31:01 PM QFarword run
+INFO: Error in QFarword line 261, Server Unavailable
+Oct 20, 2023 10:31:01 PM QFarword run
+INFO: Error in QFarword line 261, Server Unavailable
+Oct 20, 2023 10:31:01 PM QFarword run
+INFO: Error in QFarword line 261, Server Unavailable
+Oct 20, 2023 10:31:01 PM QFarword run
+INFO: Error in QFarword line 261, Server Unavailable
+Oct 20, 2023 10:31:01 PM QFarword run
+INFO: Error in QFarword line 261, Server Unavailable
+Oct 20, 2023 10:31:01 PM QFarword run
+INFO: Error in QFarword line 261, Server Unavailable
+Oct 20, 2023 10:31:01 PM QFarword run
+INFO: Error in QFarword line 261, Server Unavailable
+Oct 20, 2023 10:31:01 PM QFarword run
+INFO: Error in QFarword line 261, Server Unavailable
+Oct 20, 2023 10:31:01 PM QFarword run
+INFO: Error in QFarword line 261, Server Unavailable
+Oct 20, 2023 10:31:01 PM QFarword run
+INFO: Error in QFarword line 261, Server Unavailable
+Oct 20, 2023 10:31:01 PM QFarword run
+INFO: Error in QFarword line 261, Server Unavailable
+Oct 20, 2023 10:31:01 PM QFarword run
+INFO: Error in QFarword line 261, Server Unavailable
+Oct 20, 2023 10:31:01 PM QFarword run
+INFO: Error in QFarword line 261, Server Unavailable
+Oct 20, 2023 10:31:01 PM Mclient$4 run
+INFO: Error in t7 thread
+Oct 20, 2023 10:31:01 PM MainPeer main
+INFO: Server Default: false

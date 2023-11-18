@@ -1,0 +1,60 @@
+
+# Peer-to-Peer File Sharing System
+
+## Overview
+This project implements a part of a peer-to-peer file sharing system, allowing peers to query for files and, upon finding a file, send a hit query back to the requesting peer.
+
+## Setup & Usage
+
+Initialize directory structure: Run make init.
+Clean compiled and generated files: Run make clean.
+Remove the PeerFiles directory: Run make clean-dirs.
+Compile all Java files: Just run make or make all.
+Run the MainPeer class: Run make run.
+
+if the code is executed in single system the run command will be "java MainPeer.java <PeerID>"
+or if it is running in multiple systems in same environment make sure the IPs and port numbers are updated in config file. and run "java MainPeer.java" it will automatically detect
+the Peer ID by comapring with current IP address of the host with config file.
+
+You can change the topology by making enable and disable in config file.
+
+## Features
+
+- **Memory-mapped I/O:** Uses memory-mapped I/O for quick file index lookups.
+- **Concurrent Processing:** Utilizes a fixed thread pool to handle multiple client requests simultaneously.
+- **Dynamic Indexing:** Recursively indexes all files under a given directory path for quick searches.
+- **Logging:** Extensive logging to aid in debugging and monitoring.
+- **Message Management:** Uses unique message IDs to ensure the same message isn't processed multiple times, preventing loops in the P2P network.
+
+## Main Classes
+
+### Mserver
+
+- **Responsibilities:** Setting up the server socket, creating an index of files, managing incoming client connections.
+- **Key Methods:** 
+  - `cleanMap()`: Cleans up `seen` and `hitseen` maps if they grow too large.
+  - `CreateIndexFile()`: Indexes all files under the given directory path.
+
+### SClientHandler
+
+- **Responsibilities:** Handling individual clients that connect to the server.
+- **Key Methods:** 
+  - `sendfile()`: Sends the specified file to the client.
+  - `search()`: Searches for a specific file in the indexed file paths.
+  - `getpath()`: Retrieves the full path of a specified file.
+
+
+
+## Recommendations & Enhancements
+
+- Enhance error handling by logging caught exceptions to aid in debugging.
+- Implement graceful shutdown mechanisms for the server and threads.
+- Ensure resources like files, sockets, and streams are closed after use to prevent resource leaks.
+- Consider adding inline code comments for better clarity.
+- Revisit hardcoded limits in the code (like 900 or 800) to make them configurable or dynamic.
+
+
+Note: Make sure the config files contains all the required details like port and IP's
+	  There should exist PeerFiles folder in current directory in order to start the server 
+	  and There should exist PeerFiles\downloads folder to download the files.
+
